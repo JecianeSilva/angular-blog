@@ -1,0 +1,10 @@
+@media screen and (max-width: 998px) {
+    .content__cover > img {
+        width: 300px;
+        min-width: 300px;
+        height: 150px;
+    }
+    .content__title > h1{
+        font-size: 22px;
+    }
+}
